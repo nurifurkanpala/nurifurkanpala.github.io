@@ -1,0 +1,12 @@
+p {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+th, td {
+	padding: 10px;
+}
