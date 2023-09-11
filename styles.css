@@ -27,6 +27,13 @@ img.profilepicture {
 	float: left;
 }
 
+table, th, td {
+	border: 1px solid whitesmoke;
+	border-collapse: collapse;
+	padding-left:  15px;
+	padding-right: 15px;
+}
+
 @media (max-width: 500px) {
 	* {
 		font-size: 12px;
@@ -42,11 +49,4 @@ img.profilepicture {
 		margin-bottom: 10px;
 	}
 	
-}
-
-table, th, td {
-	border: 1px solid whitesmoke;
-	border-collapse: collapse;
-	padding-left:  15px;
-	padding-right: 15px;
 }
