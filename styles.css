@@ -23,8 +23,8 @@ object.prologue {
 }
 
 img.profilepicture {
-	height: 20%;
-	width: 20%;
+	height: 350px;
+	width:  350px;
 	margin-top: 30px;
 	margin-left: 10%;
 	margin-right: 5%;
@@ -47,8 +47,10 @@ table, th, td {
 	}
 
 	img.profilepicture {
-		margin-top: 15px;
-		margin-right: 10px;
+		height: 100px;
+		width:  100px;
+		margin-top:    15px;
+		margin-right:  10px;
 		margin-bottom: 10px;
 	}
 	
