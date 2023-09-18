@@ -6,6 +6,11 @@
 	color: whitesmoke;
 }
 
+a {
+	text-decoration: none;
+	color: lightblue;
+}
+
 p {
 	margin-left: 10%;
 	margin-right: 10%;
@@ -32,6 +37,8 @@ table, th, td {
 	border-collapse: collapse;
 	padding-left:  15px;
 	padding-right: 15px;
+	padding-top:    8px;
+	padding-bottom: 8px;
 }
 
 @media (max-width: 500px) {
